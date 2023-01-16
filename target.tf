@@ -5,8 +5,8 @@
 provider "aws" {
   alias = "target"
   region = "us-east-1"
-  access_key = "AKIAXPLKWDRRTAFDGT7U"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 
